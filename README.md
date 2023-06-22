@@ -21,9 +21,9 @@ Foi implantado: autenticação de usuários e upload de imagens. Além das funci
 
 Quer conferir o RocketMovies? 
 
-[Visite o projeto online]()
+[Visite o projeto online](https://rocketfilmes.netlify.app/)
 
-OBS: O projeto encontra-se em desenvolvimento.
+OBS: Será acrescentado melhorias.
 
 <br>
 
